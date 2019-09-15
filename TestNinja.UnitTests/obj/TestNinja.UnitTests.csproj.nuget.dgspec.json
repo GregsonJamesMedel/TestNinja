@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/medel/Documents/TestNinja/TestNinja.UnitTests/TestNinja.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/home/medel/Documents/TestNinja/TestNinja.UnitTests/TestNinja.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/medel/Documents/TestNinja/TestNinja.UnitTests/TestNinja.UnitTests.csproj",
+        "projectName": "TestNinja.UnitTests",
+        "projectPath": "/home/medel/Documents/TestNinja/TestNinja.UnitTests/TestNinja.UnitTests.csproj",
+        "packagesPath": "/home/medel/.nuget/packages/",
+        "outputPath": "/home/medel/Documents/TestNinja/TestNinja.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/medel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/medel/Documents/TestNinja/TestNinja.csproj": {
+                "projectPath": "/home/medel/Documents/TestNinja/TestNinja.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/home/medel/Documents/TestNinja/TestNinja.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/medel/Documents/TestNinja/TestNinja.csproj",
+        "projectName": "TestNinja",
+        "projectPath": "/home/medel/Documents/TestNinja/TestNinja.csproj",
+        "packagesPath": "/home/medel/.nuget/packages/",
+        "outputPath": "/home/medel/Documents/TestNinja/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/medel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

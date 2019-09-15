@@ -1,0 +1,11 @@
+/home/medel/Documents/TestNinja/bin/Debug/netcoreapp2.2/TestNinja.deps.json
+/home/medel/Documents/TestNinja/bin/Debug/netcoreapp2.2/TestNinja.runtimeconfig.json
+/home/medel/Documents/TestNinja/bin/Debug/netcoreapp2.2/TestNinja.runtimeconfig.dev.json
+/home/medel/Documents/TestNinja/bin/Debug/netcoreapp2.2/TestNinja.dll
+/home/medel/Documents/TestNinja/bin/Debug/netcoreapp2.2/TestNinja.pdb
+/home/medel/Documents/TestNinja/obj/Debug/netcoreapp2.2/TestNinja.csprojAssemblyReference.cache
+/home/medel/Documents/TestNinja/obj/Debug/netcoreapp2.2/TestNinja.csproj.CoreCompileInputs.cache
+/home/medel/Documents/TestNinja/obj/Debug/netcoreapp2.2/TestNinja.AssemblyInfoInputs.cache
+/home/medel/Documents/TestNinja/obj/Debug/netcoreapp2.2/TestNinja.AssemblyInfo.cs
+/home/medel/Documents/TestNinja/obj/Debug/netcoreapp2.2/TestNinja.dll
+/home/medel/Documents/TestNinja/obj/Debug/netcoreapp2.2/TestNinja.pdb

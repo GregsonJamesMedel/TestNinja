@@ -1,0 +1,17 @@
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.2/TestNinja.UnitTests.deps.json
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.2/TestNinja.UnitTests.runtimeconfig.json
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.2/TestNinja.UnitTests.runtimeconfig.dev.json
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.2/TestNinja.UnitTests.dll
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.2/TestNinja.UnitTests.pdb
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.2/TestNinja.UnitTests.csprojAssemblyReference.cache
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.2/TestNinja.UnitTests.csproj.CoreCompileInputs.cache
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.2/TestNinja.UnitTests.AssemblyInfoInputs.cache
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.2/TestNinja.UnitTests.AssemblyInfo.cs
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.2/TestNinja.UnitTests.dll
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.2/TestNinja.UnitTests.pdb
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.2/TestNinja.dll
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/bin/Debug/netcoreapp2.2/TestNinja.pdb
+/home/medel/Documents/TestNinja/TestNinja.UnitTests/obj/Debug/netcoreapp2.2/TestNinja.UnitTests.csproj.CopyComplete
