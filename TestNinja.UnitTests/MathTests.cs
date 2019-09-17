@@ -1,6 +1,8 @@
 
+using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TestNinja.Fundamentals;
+using System.Linq;
 
 namespace TestNinja.UnitTests
 {
@@ -45,6 +47,18 @@ namespace TestNinja.UnitTests
             var result = math.Max(1,1);
 
             Assert.AreEqual(1,result);
+        }
+
+        [TestMethod]
+        public void GetOddNumbers_LimitIsGreaterThanZero_ReturnOddNumbersUpToLimit()
+        {
+            var math = new Math();
+
+            var result = math.GetOddNumbers(5);
+
+            Assert.IsTrue(result.Contains(1));
+            Assert.IsTrue(result.Contains(3));
+            Assert.IsTrue(result.Contains(5));
         }
     }
 }
