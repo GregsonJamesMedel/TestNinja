@@ -1,19 +1,22 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "89caf60a8e13884849a65a5e093de03dfcf6e3bc"
+    "signature": "7eede387cc06ee2ab05e4a31823b455d649012ba"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "TestNinja/1.0.0": {
         "dependencies": {
-          "MSTest.TestFramework": "1.4.0"
+          "EntityFramework": "6.4.0-preview1-19506-01",
+          "MSTest.TestFramework": "1.4.0",
+          "Newtonsoft.Json": "12.0.3-beta2"
         },
         "runtime": {
           "TestNinja.dll": {}
         }
       },
+      "EntityFramework/6.4.0-preview1-19506-01": {},
       "MSTest.TestFramework/1.4.0": {
         "runtime": {
           "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
@@ -25,6 +28,14 @@
             "fileVersion": "14.0.3021.1"
           }
         }
+      },
+      "Newtonsoft.Json/12.0.3-beta2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23806"
+          }
+        }
       }
     }
   },
@@ -34,12 +45,26 @@
       "serviceable": false,
       "sha512": ""
     },
+    "EntityFramework/6.4.0-preview1-19506-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7o7c7N+ACz4IZlYsasLUjfDi05gvUet9jtRVXeNzmUpipedDAvH+CtTLmGY4X9/6dMWqEnE/ZeQFRyPGunHXtA==",
+      "path": "entityframework/6.4.0-preview1-19506-01",
+      "hashPath": "entityframework.6.4.0-preview1-19506-01.nupkg.sha512"
+    },
     "MSTest.TestFramework/1.4.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-kV/yZ0XLiOElsVeLT0GnNrsoKcPvVNOP6Cv2zkAiceJY0rpro0L+3t54bRApLwTg1mxlo4rLziBG7X6X69KcrQ==",
       "path": "mstest.testframework/1.4.0",
       "hashPath": "mstest.testframework.1.4.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3-beta2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CNkBl+FKCsp1Tw7MKCpSOCKfZIElxOOBhG46VnFV2G0hRCC1Cc2UUJDknETNGeymXN1/k6hxd44uGVZvdwyEsQ==",
+      "path": "newtonsoft.json/12.0.3-beta2",
+      "hashPath": "newtonsoft.json.12.0.3-beta2.nupkg.sha512"
     }
   }
 }

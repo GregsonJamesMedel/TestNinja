@@ -105,6 +105,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0-preview1-19506-01, )"
+            },
             "MSTest.TestFramework": {
               "target": "Package",
               "version": "[1.4.0, )"
@@ -114,6 +118,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3-beta2, )"
             }
           },
           "imports": [

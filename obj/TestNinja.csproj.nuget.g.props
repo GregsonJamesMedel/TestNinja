@@ -14,5 +14,9 @@
   </PropertyGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.app/2.2.0/build/netcoreapp2.2/Microsoft.NETCore.App.props" Condition="Exists('/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.app/2.2.0/build/netcoreapp2.2/Microsoft.NETCore.App.props')" />
+    <Import Project="$(NuGetPackageRoot)entityframework/6.4.0-preview1-19506-01/buildTransitive/EntityFramework.props" Condition="Exists('$(NuGetPackageRoot)entityframework/6.4.0-preview1-19506-01/buildTransitive/EntityFramework.props')" />
   </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">/home/medel/.nuget/packages/entityframework/6.4.0-preview1-19506-01</PkgEntityFramework>
+  </PropertyGroup>
 </Project>
